@@ -1,0 +1,7 @@
+export MONGOHOST=localhost
+export MONGOPORT=27017
+export MONGODB=mongodb
+export MONGOUSER=mongouser
+export MONGOPASSWORD=mongopass
+#export PUPPETEER_SKIP_CHROMIUM_DOWNLOAD="true"
+#export CUSTOM_CHROMIUM="/usr/bin/chromium-browser" # Find your path using which chromium
